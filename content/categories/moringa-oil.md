@@ -1,5 +1,5 @@
 ---
 name: Moringa Oil
-image: /uploads/moringa-oil.jpg
+image: /uploads/moringa-oils.jpg
 description: Moringa oilis good for health
 ---
